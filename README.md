@@ -16,21 +16,18 @@ Website Link
 
 https://get-analysis.herokuapp.com/
 
-Demo of Working Model
-Project Demo
-
-
 Project Workflow
 outline
+<img width="570" height="722" alt="image" src="https://github.com/user-attachments/assets/c1d0ce66-57d6-42d7-ac1d-d83470b93fc7" />
 
 
 Results
-results
+<img width="658" height="542" alt="image" src="https://github.com/user-attachments/assets/cbf36f0f-534f-4daa-afd0-efbf17333a5a" />
 
 
 Website Layout
-results
+<img width="2182" height="1023" alt="image" src="https://github.com/user-attachments/assets/6dfef994-b306-441a-aa74-75311e0385a1" />
+<img width="2151" height="1029" alt="image" src="https://github.com/user-attachments/assets/956e595f-7320-4ac2-815b-6d1e68041853" />
+<img width="2082" height="1017" alt="image" src="https://github.com/user-attachments/assets/227b44d9-de7f-4205-8bab-a47d9fda04e0" />
 
-results
 
-result
